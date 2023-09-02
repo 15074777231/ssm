@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-jxgm-study_ioc01</module>
+        <module>spring-jxgm-study_ioc02</module>
     </modules>
     <name>spring-Ioc-Study</name>
 

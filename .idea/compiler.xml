@@ -6,12 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-jxgm-study_ioc02" />
         <module name="spring-jxgm-study_ioc01" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="spring-Ioc-Study" target="17" />
-      <module name="spring-jxgm-study_ioc01" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
